@@ -19,4 +19,9 @@ Following are the steps followed to segment object from images:
 Following are the results of image segmentor:
 
 Plate
+<img src="plate_original.png" width="200" height="200">
+<img src="plate_thresh.png" width="200" height="200">
+<img src="plate_bbox.png" width="200" height="200">
 
+Bowl
+<img src="bowl_bbox.png" width="200" height="200">
