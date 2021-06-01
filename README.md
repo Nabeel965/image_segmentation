@@ -19,9 +19,11 @@ Following are the steps followed to segment object from images:
 Following are the results of image segmentor:
 
 Plate
+
 <img src="plate_original.PNG" width="200" height="200">
 <img src="plate_thresh.PNG" width="200" height="200">
 <img src="plate_bbox.PNG" width="200" height="200">
 
 Bowl
+
 <img src="bowl_bbox.PNG" width="200" height="200">
